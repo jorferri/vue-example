@@ -1,4 +1,4 @@
-# vue-example
+# vue-example from https://www.pluralsight.com/courses/vuejs-fundamentals
 
 ## Project setup
 ```
